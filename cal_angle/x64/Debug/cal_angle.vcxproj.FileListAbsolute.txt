@@ -1,1 +1,0 @@
-D:\c++_code\cal_angle\x64\Debug\cal_angle.exe
